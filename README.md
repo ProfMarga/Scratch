@@ -1,1 +1,1 @@
-# Scratch
+git init
